@@ -1,8 +1,8 @@
 # Guilherme Silva Costa
 
-### Software Engineering Student
+### Estudante de Engenharia de Software
 
-## About Me
+## Sobre mim
 
 Sou um estudante de Engenharia de Software de 17 anos, focado em construir bases sólidas em lógica, estruturação de sistemas e desenvolvimento full-stack.
 
@@ -22,7 +22,6 @@ Meu objetivo é aprimorar continuamente minhas habilidades técnicas e construir
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40"/>
 </p>
 
