@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Sou um estudante de Engenharia de Software de 17 anos, focado em construir bases sólidas em lógica, estruturação de sistemas e desenvolvimento full-stack.
+Sou um estudante de Engenharia de Software de 18 anos, focado em construir bases sólidas em lógica, estruturação de sistemas e desenvolvimento full-stack.
 
 Tenho experiência prática contribuindo para a organização de processos internos e estruturação de sistemas em um ambiente empresarial real. Desenvolvi soluções internas de CRM usando o Notion e implementei scripts em Python para melhorar a eficiência operacional.
 
